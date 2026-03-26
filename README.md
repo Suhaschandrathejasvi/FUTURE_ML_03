@@ -220,12 +220,12 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-### Deepak Chakrasali
+### Suhas Chandra Thejasvi.N
 
 Machine Learning & AI Enthusiast
 
 ### GitHub
 
-https://github.com/Deepakchakra
+https://github.com/Suhaschandrathejasvi
 
 ---
