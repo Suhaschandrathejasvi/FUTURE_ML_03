@@ -11,7 +11,7 @@ The system uses Natural Language Processing (NLP) and Machine Learning technique
 ## 🌐 Live Application
 
 🔗 Try the dashboard here:
-https://futureml03-xoq47y6p3xhgn4ccqj772j.streamlit.app/
+https://https://futureml03-64ns5nyv4fhvfhcujsuxuq.streamlit.app/
 
 ---
 
